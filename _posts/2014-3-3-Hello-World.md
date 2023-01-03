@@ -1,6 +1,6 @@
 ---
 layout: post
-title: career in data science and ai ml
+title: career in data science and ai 
 ---
 # this is my first blog
 ## This is jekyll software used to generate static website and blogs
